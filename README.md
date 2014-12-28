@@ -4,11 +4,11 @@ neko-norimaki
 増渕家で育った猫のりまきの様子を、増渕家に見てもらえるようにつくるサイトだよ
 
 ##メンバー
--ますぶちみなこ
--やぶきじゅん
+*ますぶちみなこ
+*やぶきじゅん
 
 #開発がてら勉強する技術
--Git
--GitHub
--Bootstrap
--Sass
+*Git
+*GitHub
+*Bootstrap
+*Sass
